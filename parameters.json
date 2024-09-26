@@ -1,0 +1,19 @@
+{
+  "NETWORK_TYPE": "vwanConnectivityMultiRegion",
+  "SECONDARYLOCATION": "eastus2",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "9cbf111d-1374-4b91-ad3c-694790cba44e",
+  "MANAGEMENT_GROUP_ID": "gmr",
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-gmr-connectivity",
+  "LOGGING_RESOURCE_GROUP": "rg-gmr-logging",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "b6fb3c43-1fce-4636-a837-2ad04e1a5d5a",
+  "RELEASE_VERSION": "latest",
+  "LOCATION": "eastus",
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "MANAGEMENT_SUBSCRIPTION_ID": "b6fb3c43-1fce-4636-a837-2ad04e1a5d5a",
+  "PREFIX": "gmr",
+  "IDENTITY_SUBSCRIPTION_ID": "b6fb3c43-1fce-4636-a837-2ad04e1a5d5a"
+}
