@@ -1,0 +1,20 @@
+{
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "AVAILABILITY_ZONES_SECONDARY": "",
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-ghre-connectivity",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "b6fb3c43-1fce-4636-a837-2ad04e1a5d5a",
+  "IDENTITY_SUBSCRIPTION_ID": "b6fb3c43-1fce-4636-a837-2ad04e1a5d5a",
+  "LOCATION": "eastus",
+  "LOGGING_RESOURCE_GROUP": "rg-ghre-logging",
+  "MANAGEMENT_SUBSCRIPTION_ID": "b6fb3c43-1fce-4636-a837-2ad04e1a5d5a",
+  "NETWORK_TYPE": "hubNetworking",
+  "MANAGEMENT_GROUP_ID": "ghre",
+  "PREFIX": "ghre",
+  "RELEASE_VERSION": "latest",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "9cbf111d-1374-4b91-ad3c-694790cba44e",
+  "SECONDARYLOCATION": ""
+}
